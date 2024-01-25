@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog!!!
 ---
 
+## Hey everyone
+This is my home page.
